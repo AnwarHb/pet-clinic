@@ -1,6 +1,6 @@
 pipeline {
     agent any
-    
+    // added a comment to check jenkins
     stages {
        
         //
