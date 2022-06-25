@@ -1,7 +1,7 @@
 pipeline {
     agent any
     // added a comment to check jenkins-github trigger
-    // comment // 
+   
     stages {
        
         //
